@@ -1,14 +1,31 @@
 Hi, I'm Anning Xu 👋
 =========================
 
+Senior Distributed Systems Engineer at **Broadcom** · Formerly **Baidu**, **Alibaba**,  **VMware**· MS EE @ **BUPT**
+
 <br/>
 
-## 🔧 Tech Stack
+## 💡 About Me
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+I'm a seasoned distributed systems engineer with deep experience designing and operating large-scale backend services that handle **1M+ QPS**. My work spans the full lifecycle of distributed infrastructure — from storage control planes and metadata management to Kubernetes automation and cluster governance.
+
+I care about building systems that are not just fast, but **reliable, observable, and maintainable** in production.
+
+- 🔭 Currently at **Broadcom** as a Senior Software Engineer
+- 🏗️ Previously led core product architecture at **Baidu** and **Alibaba**
+- 🎓 M.S. in Electrical Engineering from **Beijing University of Posts and Telecommunications (BUPT)**
+
+<br/>
+
+## 🛠️ Technical Expertise
+
+| Area | Focus |
+|------|-------|
+| **Distributed Systems** | Large-scale architecture design, load shedding, rate limiting, circuit breaking, graceful degradation |
+| **Storage** | Distributed storage control planes, metadata management, storage scheduling & orchestration |
+| **Platform & Ops** | Kubernetes cluster management, container orchestration, infrastructure automation |
+| **Security** | Network security, access control, authentication & authorization |
+| **Observability** | Logging, metrics, distributed tracing, fault diagnosis & root cause analysis |
 
 <br/>
 
@@ -22,10 +39,7 @@ Hi, I'm Anning Xu 👋
 
 ## 📧 Contact
 
-- **Email**: [coming soon]
+- **Email**: 18501181822@163.com
 - **WeChat**: one_Amos
 
 <br/>
-
----
-<p align="center">⭐️ From <a href="https://github.com/xvanning">xvanning</a></p>
