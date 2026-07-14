@@ -10,7 +10,7 @@ I'm a seasoned distributed systems engineer with deep experience designing and o
 
 I care about building systems that are not just fast, but **reliable, observable, and maintainable** in production.
 
-<br/>
+Now, I've been diving into **AI infra** as a newcomer — currently learning **vLLM** and **LMCache**.
 
 ## 🛠️ Technical Expertise
 
@@ -22,19 +22,7 @@ I care about building systems that are not just fast, but **reliable, observable
 | **Security** | Network security, access control, authentication & authorization |
 | **Observability** | Logging, metrics, distributed tracing, fault diagnosis & root cause analysis |
 
-<br/>
-
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xvanning&show_icons=true&theme=default" />
-</p>
--->
-
 ## 📧 Contact
 
 - **Email**: 18501181822@163.com
 - **WeChat**: one_Amos
-
-<br/>
