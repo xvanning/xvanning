@@ -1,11 +1,10 @@
 Hi, I'm Anning Xu 👋
 =========================
 
-Senior Software Engineer at **Broadcom** | Formerly **Baidu**, **Alibaba**, **VMware** |MS EE @ **BUPT**
-
-<br/>
 
 ## 💡 About Me
+
+Senior Software Engineer at **Broadcom** | Formerly **Baidu**, **Alibaba**, **VMware** | MS EE @ [**BUPT**](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications)
 
 I'm a seasoned distributed systems engineer with deep experience designing and operating large-scale backend services that handle 1M+ QPS. My work spans the full lifecycle of distributed infrastructure — from storage control planes and metadata management to Kubernetes automation and cluster governance.
 
