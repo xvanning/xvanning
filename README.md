@@ -8,6 +8,8 @@ Senior Software Engineer at **Broadcom** | Formerly **Baidu**, **Alibaba**, **VM
 
 I'm an experienced distributed systems engineer — I design and operate large-scale backend services at 1M+ QPS, spanning storage control planes, metadata management, and Kubernetes automation.
 
+Recent 4 years, I am developing @[**vSAN**](https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/overview-of-vmware-cloud-foundation-9/what-is-vmware-cloud-foundation-and-vmware-vsphere-foundation/vsan.html)
+
 I care about building systems that are not just fast, but **reliable, observable, and maintainable** in production.
 
 Now, I've been diving into **AI infra** as a newcomer.
@@ -16,11 +18,11 @@ Now, I've been diving into **AI infra** as a newcomer.
 
 | Area | Focus |
 |------|-------|
-| **Distributed Systems** | Large-scale architecture design, load shedding, rate limiting, circuit breaking, graceful degradation |
-| **Storage** | Distributed storage control planes, metadata management, storage scheduling & orchestration |
+| **Distributed Systems** | Large-scale architecture design, Rate limiting, Circuit breaking, Degradation handling|
+| **Auto Managment** | Distributed storage control planes, metadata management, storage scheduling & orchestration |
 | **Platform & Ops** | Kubernetes cluster management, container orchestration, infrastructure automation |
-| **Security** | Network security, access control, authentication & authorization |
-| **Observability** | Logging, metrics, distributed tracing, fault diagnosis & root cause analysis |
+| **Privacy** | Security, Access Control, Authentication & Authorization |
+| **Availability & Observability** | Logging, metrics, distributed tracing, fault diagnosis & root cause analysis |
 
 ## 📧 Contact
 
