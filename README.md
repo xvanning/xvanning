@@ -18,10 +18,10 @@ Now, I've been diving into **AI infra** as a newcomer.
 
 | Area | Focus |
 |------|-------|
-| **Distributed Systems** | Large-scale architecture design, Rate limiting, Circuit breaking, Degradation handling|
+| **Distributed Systems** | Large-scale architecture design, rate limiting, circuit breaking, degradation handling|
 | **Auto Managment** | Distributed storage control planes, metadata management, storage scheduling & orchestration |
 | **Platform & Ops** | Kubernetes cluster management, container orchestration, infrastructure automation |
-| **Privacy** | Security, Access Control, Authentication & Authorization |
+| **Privacy** | Security, access control, authentication & authorization |
 | **Availability & Observability** | Logging, metrics, distributed tracing, fault diagnosis & root cause analysis |
 
 ## 📧 Contact
